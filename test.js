@@ -12,3 +12,4 @@ function utest1(ans){
 }
 
 utest1(2)
+process.exit(1);
